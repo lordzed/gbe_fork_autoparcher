@@ -192,3 +192,5 @@ GameFolder/
 ## Disclaimer
 
 This tool is intended for **LAN play, offline use, and development/testing** purposes only. Do not use it to bypass copy protection on games you do not own. The authors take no responsibility for misuse.
+
+![](https://view-counter.tobyhagan.com/?user={lordzed})
